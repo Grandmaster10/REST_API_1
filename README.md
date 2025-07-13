@@ -19,20 +19,24 @@ A simple RESTful API built with **Node.js** and **Express.js** to manage a colle
    git clone https://github.com/your-username/book-catalogue-api.git
    cd book-catalogue-api
 
-`git clone https://github.com/your-repo/book-catalogue-api.git
-cd book-catalogue-api`
+   git clone https://github.com/your-repo/book-catalogue-api.git
+   cd book-catalogue-api
 
-#Install dependencies (only Express is used):
+### Install dependencies (only Express is used):
 
-`npm install express
-Run the server:`
+   ```bash
+   npm install express
 
-`node server.js
-Open your browser or API client and navigate to:`
+   Run the server:
 
-`http://localhost:3000`
+   ```bash
+   node server.js
+   Open your browser or API client and navigate to:
 
-#📖 API Endpoints
+   ```bash
+   http://localhost:3000
+
+## 📖 API Endpoints
 
 #✅ Get All Books
 
