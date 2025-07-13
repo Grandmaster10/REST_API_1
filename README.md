@@ -29,8 +29,9 @@ A simple RESTful API built with **Node.js** and **Express.js** to manage a colle
 
    ```bash
    node server.js
-   Open your browser or API client and navigate to:
    ```
+   Open your browser or API client and navigate to:
+   
 
    ```bash
    http://localhost:3000
