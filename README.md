@@ -16,7 +16,7 @@ A simple RESTful API built with **Node.js** and **Express.js** to manage a colle
 1. Clone the repository or download the code:
 
    ```bash
-   git clone https://github.com/Grandmaster10/REST_API_1
+   git clone https://github.com/Grandmaster10/REST_API_ARENA
    cd REST_API_1
    ```
 
