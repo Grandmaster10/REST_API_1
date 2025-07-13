@@ -16,16 +16,14 @@ A simple RESTful API built with **Node.js** and **Express.js** to manage a colle
 1. Clone the repository or download the code:
 
    ```bash
-   git clone https://github.com/your-username/book-catalogue-api.git
-   cd book-catalogue-api
-
-   git clone https://github.com/your-repo/book-catalogue-api.git
-   cd book-catalogue-api
+   git clone https://github.com/Grandmaster10/REST_API_1
+   cd REST_API_1
+   ```
 
 ### Install dependencies (only Express is used):
 
    ```bash
-   npm install express
+   npm install 
    ```
    Run the server:
 
