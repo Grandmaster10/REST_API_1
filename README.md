@@ -1,17 +1,23 @@
-#📚 Book Catalogue API
+# 📚 Book Catalogue API
 
-A simple RESTful API built with Node.js and Express.js to manage a collection of books. It supports CRUD operations and filtering by different attributes like book ID, type, and author.
+A simple RESTful API built with **Node.js** and **Express.js** to manage a collection of books. It supports full CRUD operations and filters based on book ID, type, and author.
 
-#🚀 Getting Started
+---
 
-Prerequisites
-Node.js installed
+## 🚀 Getting Started
 
-npm (comes with Node.js)
+### Prerequisites
 
-#Installation
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
 
-Clone this repository or copy the code into a file named server.js:
+### Installation
+
+1. Clone the repository or download the code:
+
+   ```bash
+   git clone https://github.com/your-username/book-catalogue-api.git
+   cd book-catalogue-api
 
 `git clone https://github.com/your-repo/book-catalogue-api.git
 cd book-catalogue-api`
